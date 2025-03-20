@@ -68,10 +68,10 @@ This Arduino traffic light project was created by me on a day off, purely for fu
 
 ## Mounting
 
-![image mount](images/tlmount.png)
+![image mount](images/tlmount.jpg)
 
 
 ## Demo 
 
-![image mount](images/tldemo.git)
+![image mount](images/tldemo.gif)
 
